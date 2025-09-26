@@ -1668,7 +1668,7 @@ for t=T:-1:1
         drawnow
     end
 end
-brick.progresss
+%brick.progresss
 
 % Forward collecting/sampling/smoothing step
 n = zeros(T,1);
